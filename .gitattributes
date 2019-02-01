@@ -1,2 +1,2 @@
 #pattern  filter=crypt diff=crypt
-sensitive_file  filter=crypt diff=config.ini
+config.ini filter=crypt diff=crypt
