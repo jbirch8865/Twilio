@@ -1,5 +1,5 @@
 <?php
-	require_once '/var/www/vendor/autoload.php';
+	require_once 'vendor/autoload.php';
 	use Twilio\Rest\Client;
 
 function SendSMS($TO, $BODY, $FROM = '+19712735759')
