@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "97e56f48a22b0924f26526d1aca6b665",
-    "content-hash": "06f41eee4478bdcdf64b28848fb2ea38",
+    "hash": "b69c2581c9f1789489973d7a575a8e5a",
+    "content-hash": "4816ce864392118e08d7a58dbddf329f",
     "packages": [
         {
             "name": "instasent/sms-counter-php",
@@ -109,7 +109,7 @@
     ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,

@@ -1,6 +1,16 @@
 {
+    "name": "jbirch8865/twilio",
+    "description": "Twilio Message class",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Joel Birch",
+            "email": "jbirch88655@gmail.com"
+        }
+    ],
     "require": {
          "twilio/sdk": "^5.0",
         "instasent/sms-counter-php": "^0.5.2"
-    }
+    },
+    "minimum-stability": "dev"
 }
