@@ -1,5 +1,6 @@
 {
     "require": {
-         "twilio/sdk": "^5.0"
+         "twilio/sdk": "^5.0",
+        "instasent/sms-counter-php": "^0.5.2"
     }
 }
