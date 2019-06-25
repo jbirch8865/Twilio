@@ -1,6 +1,5 @@
 {
     "require": {
-         "twilio/sdk": "^5.0",
- 	 "phpunit/phpunit": "^8"
+         "twilio/sdk": "^5.0"
     }
 }
