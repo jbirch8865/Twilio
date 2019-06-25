@@ -8,7 +8,7 @@ function SendSMS($TO, $BODY, $FROM = false)
 	// see https://getcomposer.org/doc/01-basic-usage.md
 
 	// Your Account Sid and Auth Token from twilio.com/console
-	$ini = parse_ini_file('config.ini');
+	$ini = parse_ini_file('SMS_config.ini');
 	$sid    = $ini['SID'];
 	$token  = $ini['Token'];
 	if(!$FROM)
